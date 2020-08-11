@@ -1,17 +1,3 @@
-/*escreval("Digite o nome do aluno; ")
-   leia(nome)
-   escreval("Digite a nota 01 do aluno; ")
-   leia(nota1)
-   escreval("Digite a nota 02 do aluno; ")
-   leia(nota2)
-   media := (nota1 + nota2) /2
-   
-   se  media >- 5 entao
-    escreval("aprovado!", nome)
-   senao
-    escreval("reprovado!", nome)
-
-     fimse*/
 
      var nome, nota01, nota02;
      nome = prompt("Digite o nome do aluno:")
